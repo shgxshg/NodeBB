@@ -306,3 +306,4 @@ module.exports = function (Topics) {
 		plugins.hooks.fire('action:topic.move', hookData);
 	};
 };
+
